@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coursework</string>
+    <string name="traffic">Traffic Scotland Road Data</string>
+    <string name="roadworks">Roadworks</string>
+    <string name="current">Current incidents</string>
+    <string name="planned">Planned roadworks</string>
+    <string name="data">Data is Displayed here</string>
+</resources>
